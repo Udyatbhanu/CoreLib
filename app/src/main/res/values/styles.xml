@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+
+    </style>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/darkslategray</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar.Solid</item>
+
+    </style>
+
+</resources>

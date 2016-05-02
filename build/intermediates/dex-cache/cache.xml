@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_2328538faee7f31878be2893a5c8f0521e471a49/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_bed5ab9b1b2a0c3c9329bf6661743f740c5b8dd6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_6ec21ff81d3f7c0193ce12ffb2465b01983fd49b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.0_ac1b2702ff2d40f2ceaecf66dc3b6ca9984fe3b4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="22a1c6370bd154ad3f9985060bc8683995c8ec5d">
+        <dex dex="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4c9aa05b49b42f7783b5b8999e7ded1b2f18e4a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="557308827b02459e7aa1e93b50e61c33b0b1507e">
+        <dex dex="/Users/udyatbhanu-mac/work/Github/CoreLib/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_163f821de97b14543d2c59d5c939abb29e07ef07/classes.dex" />
+    </item>
+
+</items>

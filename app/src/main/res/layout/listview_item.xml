@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- the parent view - provides the gray listfragment background color -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center_vertical"
+    android:background="@color/frame_background"
+    android:padding="5dp" >
+
+    <!-- the innner view - provides the white rectangle -->
+    <RelativeLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <!-- the icon view -->
+        <ImageView android:id="@+id/ivIcon"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:padding="5dp"
+            android:scaleType="fitXY"
+            android:layout_alignParentLeft="true" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/ivIcon"
+            android:layout_centerVertical="true" >
+            <!-- the title view -->
+            <TextView android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@android:style/TextAppearance.Medium" />
+
+            <!-- the description view -->
+            <TextView android:id="@+id/tvDescription"
+                android:layout_below="@id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@android:style/TextAppearance.Small" />
+
+            <!-- the open hours view -->
+            <TextView android:id="@+id/openHoursText"
+                android:layout_below="@id/tvDescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@android:style/TextAppearance.Small" />
+
+            <!-- the types view -->
+            <TextView android:id="@+id/typesText"
+                android:layout_below="@id/openHoursText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@android:style/TextAppearance.Small" />
+
+        </RelativeLayout>
+
+        </RelativeLayout>
+
+
+
+</RelativeLayout>
