@@ -1,0 +1,26 @@
+{"MenuItems": {
+  "option1": {
+    "title": "Home",
+    "fragment": "ubbs.home.com.corelib.sample.fragment.FirstFragment"
+  },
+  "option2": {
+    "title": "New",
+    "fragment": "ubbs.home.com.corelib.sample.fragment.FirstFragment"
+  },
+  "option3": {
+    "title": "Gallery",
+    "fragment": "ubbs.home.com.corelib.sample.fragment.GalleryFragment"
+  },
+  "option4": {
+    "title": "Settings",
+    "fragment": "ubbs.home.com.corelib.sample.fragment.FirstFragment"
+  },
+  "option5": {
+    "title": "Feedback",
+    "fragment": "ubbs.home.com.corelib.sample.fragment.FirstFragment"
+  },
+  "option6": {
+    "title": "Camera Test",
+    "fragment": "ubbs.home.com.corelib.sample.fragment.CameraFragment"
+  }
+}}
